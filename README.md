@@ -38,9 +38,9 @@ Central repo for lecture slides, homework, and the group project timeline.
 
 ### Homework Deadlines
 
-| HW | Topic (Module)                  | Assigned   | Due (09:45) | Link                              |
-| -- | ------------------------------- | ---------- | ----------- | --------------------------------- |
-| 1  | Will coming soon                | 2025-10-09 | 2025-10-23  | [/homework/hw01](./homework/hw01) |
+| HW | Topic (Module)                  | Assigned   | Due (09:45) | Link                                          |
+| -- | ------------------------------- | ---------- | ----------- |-----------------------------------------------|
+| 1  | Regex + NLP Preprocessing       | 2025-10-09 | 2025-10-23  | [/homework/homework 1](./homework/homework 1) |
 
 
 ### Group Project Timeline
@@ -57,4 +57,4 @@ Central repo for lecture slides, homework, and the group project timeline.
 
 ### Quick Links
 
-* [Lectures](./lectures) · [Homework](./homework) · [Project](./project)
+* [Lectures](./lectures) · [Homework](./assignments) · [Project](./project)
